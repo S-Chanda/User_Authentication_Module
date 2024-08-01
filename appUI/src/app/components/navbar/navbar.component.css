@@ -1,0 +1,4 @@
+.custom-nav .navbar-nav .nav-link,
+.custom-nav .navbar-brand {
+  color: white !important;
+}
